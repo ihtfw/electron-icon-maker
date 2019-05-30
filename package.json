@@ -30,6 +30,7 @@
   "dependencies": {
     "args": "^2.3.0",
     "icon-gen": "1.0.7",
-    "jimp": "^0.2.27"
+    "jimp": "^0.2.27",
+    "phantomjs-prebuilt": "^2.1.16"
   }
 }
